@@ -1,0 +1,64 @@
+/* Full-screen overlay container */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.2); /* Slightly darkened transparent background */
+  z-index: 1000; /* Ensure the loader is above other content */
+  animation: fadeIn 0.5s ease-out; /* Fade-in effect */
+}
+
+/* Fade-in animation for the loader-container */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Single color loader with smooth rounded edges */
+.loader {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%; /* Fully rounded edges */
+  background-color: #81ebd4; /* Soft teal color */
+  animation: pulse 1.5s ease-in-out infinite, wiggle 2s ease-in-out infinite; /* Pulse and wiggle animation */
+}
+
+/* Pulse animation - loader grows and shrinks */
+@keyframes pulse {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.9);
+    opacity: 0.7;
+  }
+}
+
+/* Wiggling animation for a more organic effect */
+@keyframes wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(5deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(-5deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}

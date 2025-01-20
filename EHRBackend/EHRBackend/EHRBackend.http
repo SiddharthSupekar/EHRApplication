@@ -1,0 +1,6 @@
+@EHRBackend_HostAddress = http://localhost:5075
+
+GET {{EHRBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

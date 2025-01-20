@@ -1,0 +1,169 @@
+/* Basic styling for the form container */
+.container {
+    max-width: 3000px;
+    max-height: 100vh;
+    margin-top: 50px;
+    padding: 0 15px;
+    overflow: auto;
+  }
+  
+  /* Form card style */
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    background-color: #ffffff;
+  }
+  
+  /* Header styling */
+  h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  /* Styling for form labels */
+  .form-label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #444;
+  }
+  
+  /* Input field style */
+  input.form-control,
+  select.form-control {
+    border-radius: 8px;
+    font-size: 1rem;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Input focus effect */
+  input.form-control:focus,
+  select.form-control:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  /* Error message styling */
+  .text-danger {
+    font-size: 0.875rem;
+    color: #f44336;
+    margin-top: 5px;
+  }
+  
+  /* Submit button style */
+  button[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+  }
+  
+  button[type="submit"]:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  /* Full-width form row for larger screens */
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Responsive grid */
+  @media (max-width: 767px) {
+    .col-md-6 {
+      width: 100% !important;
+      margin-bottom: 20px;
+    }
+    .col-12 {
+      width: 100% !important;
+    }
+  }
+  
+  /* Styling for select dropdown */
+  select.form-control {
+    padding: 12px;
+    height: 50px;
+    font-size: 1rem;
+    border-radius: 8px;
+  }
+  
+  /* Styling for the form fields to have some margin between them */
+  .mb-3 {
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 992px) {
+    .col-lg-8 {
+      width: 100%;
+    }
+    .col-lg-4 {
+      width: 100%;
+    }
+  }
+  
+  /* Larger screens */
+  @media (min-width: 1200px) {
+    .container {
+      margin-top: 100px;
+    }
+    .card {
+      padding: 40px;
+    }
+  }
+  a {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #007bff; /* Same color as the submit button */
+    text-decoration: none; /* Remove default underline */
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px; /* Add padding to make it look like a button */
+    border-radius: 8px;
+    background-color: #f1f1f1; /* Light background to make it blend with the form */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Change background and transform on hover */
+a:hover {
+    background-color: #007bff; /* Change background on hover */
+    color: white; /* White text on hover */
+    transform: translateY(-2px); /* Slight lift on hover */
+}
+
+/* Optional: Make the link slightly lighter when disabled or visited */
+a:visited {
+    color: #0056b3;
+}
+
+/* Additional styling for the form container */
+.col-12 > div {
+    text-align: center; /* Center the link under the form */
+}
+.input-error {
+    border: 2px solid red; /* Red border */
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.8); /* Glowing red border effect */
+}
+
+/* Optional: You can also style the error message */
+.text-danger {
+    font-size: 0.875rem;
+    color: #f44336;
+    margin-top: 5px;
+}
+  

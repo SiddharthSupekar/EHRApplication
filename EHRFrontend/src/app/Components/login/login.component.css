@@ -1,0 +1,146 @@
+/* Container for the entire login section */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #81ebd4;
+    padding: 0 20px;
+  }
+  
+  /* Card styling for the login form */
+  .login-card {
+    background-color: #f7f4f4;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  /* Logo styling */
+  .logo-section {
+    margin-bottom: 20px;
+    width: 100%;
+    background : radial-gradient(circle, #ffffff,#f7f4f4);
+}
+
+.logo-img {
+    width: 250px;
+    height: auto;
+    border-radius: 100px;
+  }
+  
+  /* Title Styling */
+  .login-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  /* Form Input Styling */
+  .form-field {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .form-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 8px;
+    display: block;
+  }
+  
+  .input-container {
+    position: relative;
+  }
+  
+  .input-icon {
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #888;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 12px 15px;
+    padding-left: 40px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 1rem;
+    outline: none;
+    transition: all 0.3s ease;
+  }
+  
+  .form-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  /* Error Message Styling */
+  .error-message {
+    color: #f44336;
+    font-size: 0.875rem;
+    margin-top: 5px;
+    text-align: left;
+  }
+  
+  /* Button Styling */
+  .btn-login {
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #007bff;
+    color: white;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-login:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .btn-login:hover:enabled {
+    background-color: #0056b3;
+  }
+  
+  /* Footer Links Styling */
+  .form-footer {
+    font-size: 0.875rem;
+    color: #555;
+  }
+  
+  .text-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .text-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 576px) {
+    .login-card {
+      padding: 20px;
+      width: 100%;
+    }
+  
+    .login-title {
+      font-size: 20px;
+    }
+  
+    .form-input {
+      padding: 10px;
+    }
+  }
+  

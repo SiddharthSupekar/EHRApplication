@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Appointment</title>
+    <!-- Add Bootstrap CSS (Optional) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-md-10 col-sm-12">
+                <div class="card p-4 shadow-sm">
+                    <h2 class="text-center mb-4">Add Appointment</h2>
+                    <form [formGroup]="addAppointment">
+                        <!-- Specialization and Practitioner Selection -->
+                        <div class="row mb-3">
+                            <div class="col-md-4" *ngIf="roleName == 'Patient'" >
+                                <label for="specializationId" class="form-label">Specialization</label>
+                                <select id="specializationId" class="form-select" (change)="practitionerForSpecialization($event)" name="specializationId" required>
+                                    <option value="" disabled selected>Select Specialization</option>
+                                    <option *ngFor="let specialization of specializations" [value]="specialization.specializationId">{{specialization.specializationName}}</option>
+                                </select>
+                            </div>
+                            <div class="col-md-4" >
+                                <label for="practitionerId" class="form-label">Practitioner</label>
+                                <select id="practitionerId" class="form-select" formControlName="providerId" (change)="getFee()" required>
+                                    <option value="" selected disabled>Select Provider</option>
+                                    <option *ngFor="let provider of providers" [value]="provider.userId">{{provider.firstName}} {{provider.lastName}}</option>
+                                </select>
+                                <div *ngIf="isFieldInvalid('providerId')" class="text-danger">
+                                    Required
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="appointmentDate" class="form-label">Appointment Date</label>
+                                <input type="date" class="form-control" id="appointmentDate" formControlName="appointmentDate" min="{{today}}" (change)="onDateChange($event)" required>
+                                
+                                <div *ngIf="isFieldInvalid('appointmentDate') && isTimeValid()" class="text-danger">
+                                    Required
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Time and Chief Complaint -->
+                        <div class="row mb-3">
+                            <div class="col-md-3">
+                                <label for="appointmentTime" class="form-label">Appointment Time</label>
+                                <input type="time" class="form-control" id="appointmentTime" formControlName="appointmentTime"  [min]="minTime" [max]="maxTime" [disabled]="isTimeDisabled" required>
+                                <div *ngIf="isFieldInvalid('appointmentTime')" class="text-danger">
+                                    Required
+                                </div>
+                                <div *ngIf="(!isTimeValid() )" class="text-danger">
+                                    Invalid time.
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="chiefComplaint" class="form-label">Chief Complaint</label>
+                                <textarea id="chiefComplaint" class="form-control" formControlName="chiefComplaint"  rows="1" placeholder="Describe the main issue"></textarea>
+                                <div *ngIf="isFieldInvalid('chiefComplaint')" class="text-danger">
+                                    Required
+                                </div>
+                            </div>
+                            <div class="col-md-3" *ngIf="roleName == 'Patient'" >
+                                <label for="fee" class="form-label">VisitingCharge</label>
+                                <input type="number" class="form-control" formControlName="fee" [value]="fee" readonly >
+
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <button id="paymentButton" class="w-100" (click)="openAppointmentModal()">Pay {{fee | currency:"INR" }}</button>
+                            </div>
+                        </div>
+                        
+                        <div class="modal fade show" id="appointmentModal" tabindex="-1" role="dialog" aria-labelledby="appointmentModal" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <!-- <div class="modal-header">
+                                        <h5 class="modal-title" id="appointmentModalTitle"></h5>
+                                        <button type="button" class="close" (click)="closeAppointmentModal()" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div> -->
+                                    <div class="modal-body">
+                                        <button type="button" class="close" (click)="closeAppointmentModal()" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                        <div class="payment-container">
+                                            <div class="payment-card">
+                                                <h2>Complete Your Payment</h2>
+                        
+                                                <!-- Card Number -->
+                                                <div class="input-field">
+                                                    <label for="card-number">Card Number</label>
+                                                    <div id="card-number" class="card-input"></div>
+                                                    <span *ngIf="cardNumberInvalid" class="text-danger">Card number is required.</span>
+                                                </div>
+                        
+                                                <!-- Expiry Date -->
+                                                <div class="input-field">
+                                                    <label for="expiry-date">Expiration Date</label>
+                                                    <div id="expiry-date" class="card-input"></div>
+                                                    <span *ngIf="expiryDateInvalid" class="text-danger">Expiration date is required.</span>
+                                                </div>
+                        
+                                                <!-- CVC -->
+                                                <div class="input-field">
+                                                    <label for="cvc">CVC</label>
+                                                    <div id="cvc" class="card-input"></div>
+                                                    <span *ngIf="cvcInvalid" class="text-danger">CVC is required.</span>
+                                                </div>
+                        
+                                                <!-- Payment Button -->
+                                                <div class="row">
+                                                    <div class="col-md-12">
+                                                        <button class="btn btn-primary w-100" (click)="handlePayment(fee)">
+                                                            Pay {{ fee | currency: 'INR' }}
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <br>
+                        <br>
+
+                        <!-- Submit Button -->
+                        
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

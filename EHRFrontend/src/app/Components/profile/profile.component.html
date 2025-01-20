@@ -1,0 +1,335 @@
+<div class="container mt-5"  >
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-md-10 col-sm-12">
+        
+        
+        
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="profileModal" tabindex="-1" role="dialog" aria-labelledby="profileModal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg " role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLongTitle">Edit Profile </h5>
+          <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button> -->
+        </div>
+        <div class="modal-body">
+            <form [formGroup]="updateForm" >
+                    <h2 class="text-center mb-4">Profile</h2>
+                      <div class="row">
+                          <div class="row">
+                              <div class="col-md-12">
+                                  <!-- <img [src]="'https://localhost:7040/' + userProfile.profileImage" alt="Profile Image" class="profile-image" /> -->
+                                  <label for="fileInput">
+                                      <img  [src]="image || 'https://localhost:7187/' + (selectedFile ? selectedFile.name : userProfile.profileImage)" 
+                                            alt="Profile Image" 
+                                            class="profile-image"
+                                            style="width: 50%;height: 50%;border-radius: 50%;justify-content: center;"
+                                        />
+                                      <i class="fas fa-edit"></i>
+                                  </label>
+                                  <input type="file" id="fileInput" (change)="onFileSelected($event)" hidden />
+                              </div>
+                          </div>
+                        <!-- First Name -->
+                          <div class="row">
+                              <div class="col-md-5"  >
+                                  <div class="row">
+                                      <div class="col-md-4 mb-3" *ngIf="roleName == 'Practitioner'">
+                                          <label for="qualificationId" class="form-label">Qualification</label>
+                                          <select name="qualification" id="qualification" formControlName="qualificationId" class="form-control" >
+                                              <option value="" selected disabled>Quali</option>
+                                              <option *ngFor="let qualification of qualifications" [value]="qualification.qualificationId">{{qualification.qualificationName}}</option>
+                                          </select>
+                                          <div *ngIf="isFieldInvalid('qualificationId')" class="text-danger">
+                                            Qualification is required.
+                                          </div>
+                                      </div>
+                                      <div class="col-md-8 mb-4">
+                                          <label for="firstName" class="form-label">First Name</label>
+                                          <input id="firstName" formControlName="firstName" class="form-control" type="text" maxlength="20">
+                                          <div *ngIf="isFieldInvalid('firstName')" class="text-danger">
+                                          First name is required and should not exceed 20 characters.
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+          
+                  
+                              <!-- Last Name -->
+                              <div class="col-md-4 mb-4">
+                                  <label for="lastName" class="form-label">Last Name</label>
+                                  <input id="lastName" formControlName="lastName" class="form-control" type="text" maxlength="20">
+                                  <div *ngIf="isFieldInvalid('lastName')" class="text-danger">
+                                  Last name is required and should not exceed 20 characters.
+                                  </div>
+                              </div>
+                              <div class="col-md-3 mb-4">
+                                  <label for="dob" class="form-label">DOB</label>
+                                  <input id="dob" formControlName="dob" class="form-control" type="date" max="{{todayDate}}" >
+                                  <div *ngIf="isFieldInvalid('dob')" class="text-danger">
+                                  Date of Birth is required.
+                                  </div>
+                              </div>
+                          </div>
+                        
+                          <div class="row">
+                              <div class="col-md-4 mb-4">
+                                  <label for="email" class="form-label">Email</label>
+                                  <input id="email" formControlName="email" class="form-control" type="email">
+                                  <div *ngIf="isFieldInvalid('email')" class="text-danger">
+                                  Please enter a valid email address.
+                                  </div>
+                              </div>
+                  
+                              <div class="col-md-4 mb-4">
+                                  <label for="mobile" class="form-label">Mobile</label>
+                                  <input id="mobile" formControlName="mobile" class="form-control" type="text" maxlength="10" pattern="^[0-9]{10}$">
+                                  <div *ngIf="isFieldInvalid('mobile')" class="text-danger">
+                                  Please enter a valid 10-digit mobile number.
+                                  </div>
+                              </div>
+                              <div class="col-md-4 mb-4">
+                                  <label for="genderId" class="form-label">Gender</label>
+                                  <select id="genderId" formControlName="genderId" class="form-control">
+                                  <option value="">Select Gender</option>
+                                  <option *ngFor="let gender of genders" [value]="gender.genderId">{{gender.genderName}}</option>
+          
+                                  </select>
+                                  <div *ngIf="isFieldInvalid('genderId')" class="text-danger">
+                                  Gender is required.
+                                  </div>
+                              </div>
+                          </div>
+          
+                          <div class="row">
+                              <div class="col-md-4 mb-4">
+                                <label for="countryId" class="form-label">Country</label>
+                                <!-- <input  type="text"> -->
+                                 <select id="countryId" formControlName="countryId" class="form-control" (change)="onCountryChange()" >
+                                    <option value="" selected disabled>Selct Country</option>
+                                    <option *ngFor="let country of countryData" [value]="country.countryId"  >{{country.countryName}}</option>
+                                 </select>
+                                <div *ngIf="isFieldInvalid('countryId')" class="text-danger">
+                                Country is required.
+                                </div>
+                              </div>
+                  
+                              <!-- State -->
+                              <div class="col-md-4 mb-4">
+                                <label for="stateId" class="form-label">State</label>
+                                <!-- <input id="stateId" formControlName="stateId" class="form-control" type="text"> -->
+                                 <select id="stateId" formControlName="stateId" class="form-control">
+                                    <option value="" selected disabled>Select State</option>
+                                    <option *ngFor="let state of filteredStateData" [value]="state.stateId">{{state.stateName}}</option>
+                                 </select>
+                                <div *ngIf="isFieldInvalid('stateId')" class="text-danger">
+                                State is required.
+                                </div>
+                              </div>
+                  
+                              <!-- City -->
+                              <div class="col-md-4 mb-4">
+                                  <label for="city" class="form-label">City</label>
+                                  <input id="city" formControlName="city" class="form-control" type="text">
+                                  <div *ngIf="isFieldInvalid('city')" class="text-danger">
+                                  City is required.
+                                  </div>
+                              </div>
+                          </div>
+          
+                          <div class="row">
+                              <div class="col-md-5 mb-3">
+                                  <label for="address" class="form-label">Address</label>
+                                  <input id="address" formControlName="address" class="form-control" type="textarea">
+                                  <div *ngIf="isFieldInvalid('address')" class="text-danger">
+                                    Address is required.
+                                    </div>
+                              </div>
+                              
+                              <div class="col-md-7">
+                                  <div class="row">
+                                      <div class="col-md-5 mb-3">
+                                          <label for="pincode" class="form-label">Pincode</label>
+                                          <input id="pincode" formControlName="pincode" class="form-control" type="text">
+                                          <div *ngIf="isFieldInvalid('pincode')" class="text-danger">
+                                          Pincode is required.
+                                          </div>
+                                      </div>
+                                      <div class="col-md-7 mb-3">
+                                          <label for="bloodGroupId" class="form-label">Blood Group</label>
+                                          <select id="bloodGroupId" formControlName="bloodGroupId" class="form-control">
+                                          <option value="">Select Blood Group</option>
+                                          <option *ngFor="let bloodGroup of bloodGroups" [value]="bloodGroup.bloodGroupId">{{bloodGroup.bloodGroupName}}</option>
+                                          </select>
+                                          <div *ngIf="isFieldInvalid('bloodGroupId')" class="text-danger">
+                                          Blood group is required.
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+          
+                          </div>
+                          <div class="row" *ngIf="roleName == 'Practitioner'">
+                                  <div class="col-md-4 mb-3">
+                                      <label for="specializationId" class="form-label">Specialization</label>
+                                      <select id="specializationId" formControlName="specializationId" class="form-control">
+                                          <option value="">Select Specialization</option>
+                                          <option *ngFor="let specialization of specializations" [value]="specialization.specializationId" >{{specialization.specializationName}}</option>
+                                      </select>
+                                      <div *ngIf="isFieldInvalid('specializationId')" class="text-danger">
+                                      Specialization is required.
+                                      </div>
+                                  </div>
+                  
+                              <!-- Registration Number -->
+                              <div class="col-md-4 mb-3">
+                                  <label for="registrationNumber" class="form-label">Registration Number</label>
+                                  <input id="registrationNumber" formControlName="registrationNumber" class="form-control" type="text">
+                                  <div *ngIf="isFieldInvalid('registrationNumber')" class="text-danger">
+                                  Registration number is required.
+                                  </div>
+                              </div>
+                  
+                              <!-- Visiting Charge -->
+                              <div class="col-md-4 mb-3">
+                                  <label for="visitingCharge" class="form-label">Visiting Charge</label>
+                                  <input id="visitingCharge" formControlName="visitingCharge" class="form-control" type="number">
+                                  <div *ngIf="isFieldInvalid('visitingCharge')" class="text-danger">
+                                  Visiting charge is required.
+                                  </div>
+                              </div>
+                          </div>
+                          
+                      </div>
+            </form> 
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="closeProfileModal()" >Close</button>
+          <button type="button" class="btn btn-primary" (click)="onSubmit()" >Update Profile</button>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+    
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-md-10 col-sm-12">
+                <div class="card p-4 shadow-sm">
+                    <h2 class="text-center mb-4">Profile</h2>
+                    <!-- Profile Image -->
+                    <div class="text-center mb-4">
+                        <img [src]="'https://localhost:7187/' + userProfile.profileImage" alt="Profile Image" 
+                             class="profile-image img-fluid rounded-circle" 
+                             style="width: 100px; height: 100px;" />
+                    </div>
+    
+                    <!-- Personal Details -->
+                    <div class="row">
+                        <div class="col-md-4 mb-3"  *ngIf="roleName == 'Practitioner'">
+                            <strong>Qualification</strong>
+                            <div>{{ userProfile.qualificationName }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <strong>First Name</strong>
+                            <div>{{ userProfile.firstName }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <strong>Last Name</strong>
+                            <div>{{ userProfile.lastName }}</div>
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <strong>Date of Birth</strong>
+                            <div>{{ userProfile.dob | date: 'yyyy-MM-dd' }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <strong>Email</strong>
+                            <div>{{ userProfile.email }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <strong>Mobile</strong>
+                            <div>{{ userProfile.mobile }}</div>
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <strong>Gender</strong>
+                            <div>{{ userProfile.genderName }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <strong>Country</strong>
+                            <div>{{ userProfile.countryName }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <strong>State</strong>
+                            <div>{{ userProfile.stateName }}</div>
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <strong>City</strong>
+                            <div>{{ userProfile.city }}</div>
+                        </div>
+                        <div class="col-md-8 mb-3">
+                            <strong>Address</strong>
+                            <div class="text-truncate">{{ userProfile.address }}</div>
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <strong>Pincode</strong>
+                            <div>{{ userProfile.pincode }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <strong>Blood Group</strong>
+                            <div>{{ userProfile.bloodGroupName }}</div>
+                        </div>
+                        <div class="col-md-4 mb-3"  *ngIf="roleName == 'Practitioner'">
+                            <strong>Specialization</strong>
+                            <div>{{ userProfile.specializationName }}</div>
+                        </div>
+                    </div>
+    
+                    <!-- Last Two Fields -->
+                    <div class="row"  *ngIf="roleName == 'Practitioner'">
+                        <div class="col-md-6 mb-3">
+                            <strong>Registration Number</strong>
+                            <div>{{ userProfile.registrationNumber }}</div>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <strong>Visiting Charge</strong>
+                            <div>{{ userProfile.visitingCharge }}</div>
+                        </div>
+                    </div>
+    
+                    <!-- Update Button -->
+                    <div class="row">
+                        <div class="col-12">
+                            <button type="button" class="btn btn-primary w-100" (click)="forUpdate()">Update</button>
+                        </div>
+                        <br/>
+                        <br>
+                        <div class="col-md-12">
+                            <button class="btn btn-secondary w-100" type="button" routerLink="/layout" >
+                                Back
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+
+  

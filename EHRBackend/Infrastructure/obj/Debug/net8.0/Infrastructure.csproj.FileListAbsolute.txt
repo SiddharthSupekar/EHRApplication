@@ -1,0 +1,114 @@
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

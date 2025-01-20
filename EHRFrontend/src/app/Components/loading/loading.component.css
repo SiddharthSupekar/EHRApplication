@@ -1,0 +1,36 @@
+/* Full-screen overlay container */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3); /* Slightly darkened transparent background */
+  z-index: 1000; /* Ensure the loader is above other content */
+  animation: fadeIn 0.5s ease-out; /* Fade-in effect */
+}
+
+/* Fade-in animation for the loader-container */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Spinning loader with a soft slowdown at the end */
+.loader {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%; /* Fully rounded edges */
+  border: 8px solid #81ebd4; /* Soft teal color */
+  border-top: 8px solid transparent; /* Hide part of the border for spinning effect */
+  animation: spin 1.5s cubic-bezier(0.42, 0, 0.58, 1) infinite; /* Faster spin with slowdown at end */
+}
+
+/* Smooth, slowing down rotation */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

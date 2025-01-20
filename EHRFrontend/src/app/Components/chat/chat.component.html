@@ -1,0 +1,27 @@
+<div class="chat-container">
+
+  
+    
+    <div class="messages">
+        <div *ngFor="let msg of messages" [ngClass]="{'sent': msg.senderId === senderId, 'received': msg.senderId !== senderId}">
+            <p>
+                <strong>
+                    {{ msg.senderId === senderId ? 'You' : receiverName }}:  <!-- Check if the sender is "You" or receiver's name -->
+                </strong>
+                {{ msg.message }}
+            </p>
+        </div>
+    </div>
+    <div class="message-area">
+        <textarea
+          [(ngModel)]="message"
+          class="message-input"
+          placeholder="Type your message"
+        ></textarea>
+        <button 
+        (click)="sendMessage(receiverId, message)" 
+        class="send-btn" 
+        [disabled]="!message.trim()">Send</button>
+    </div>
+  </div>
+  

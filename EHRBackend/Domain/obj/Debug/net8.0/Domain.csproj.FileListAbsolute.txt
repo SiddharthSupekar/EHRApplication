@@ -1,0 +1,66 @@
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\repos\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EHRBackend\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Monday\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EHR Tuesday\EHR Tuesday\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Wednesday\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll

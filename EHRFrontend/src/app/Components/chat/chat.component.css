@@ -1,0 +1,126 @@
+/* General container styles */
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    width: 80%; /* Increased the width to 80% of the screen */
+    height: 90vh; /* Increased the height to 90% of the viewport height */
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto; /* Center the chat window */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Header styling */
+  .chat-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .chat-header h3 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Message area */
+  .message-area {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .message-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+    resize: none;
+    background-color: #fff;
+    max-height: 150px;
+  }
+  
+  .send-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    align-self: flex-end;
+  }
+  
+  .send-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .send-btn:disabled {
+    background-color: #c5c5c5;
+    cursor: not-allowed;
+  }
+  
+  /* Messages display */
+  .messages {
+    flex-grow: 1;
+    margin-top: 20px;
+    padding: 10px;
+    max-height: 70%; /* Ensure it doesn't occupy the entire height */
+    overflow-y: auto; /* Allow vertical scrolling if the messages exceed the container's height */
+    word-wrap: break-word;
+    display: flex;
+    flex-direction: column-reverse; /* Reverse the order of the messages */
+  }
+  
+  .messages div {
+    margin-bottom: 15px;
+    padding: 8px;
+    border-radius: 5px;
+    max-width: 80%;
+  }
+  
+  .sent {
+    background-color: #d1f7c4;
+    align-self: flex-end;
+    text-align: right;
+  }
+  
+  .received {
+    background-color: #e0e0e0;
+    align-self: flex-start;
+    text-align: left;
+  }
+  
+  .message-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .message-input {
+    width: 80%; /* Adjusted to keep the message input wide */
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .send-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .send-btn:disabled {
+    background-color: #ccc;
+  }
+  

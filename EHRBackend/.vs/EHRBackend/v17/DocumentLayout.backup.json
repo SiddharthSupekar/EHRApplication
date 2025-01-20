@@ -1,0 +1,1123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\completeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\completeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\soapnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\soapnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\listofappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\listofappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\controllers\\soapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\controllers\\soapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\soapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\soapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\isoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\isoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\istripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\istripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\icountrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\icountrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\otpverifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\otpverifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216103105_Appt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102917_Appt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102808_Appt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216101001_timetypeagainagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216100524_timetypeagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095932_timetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095027_appt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216050509_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216045747_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\getdataservices\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\getdataservices\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\getdataservices\\specializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\getdataservices\\specializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\countrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\countrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\getdatainterfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\getdatainterfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\getdataservices\\bloodgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\getdataservices\\bloodgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\getdataservices\\genderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\getdataservices\\genderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\services\\getdataservices\\qualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\getdataservices\\qualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\getdatainterfaces\\ispecializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\getdatainterfaces\\ispecializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\getdatainterfaces\\igenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\getdatainterfaces\\igenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\getdatainterfaces\\ibloodgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\getdatainterfaces\\ibloodgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\getdatainterfaces\\iqualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\getdatainterfaces\\iqualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\ehrbackend\\controllers\\countrystatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7586710-63EC-40A2-B957-176AD16E1738}|EHRBackend\\EHRBackend.csproj|solutionrelative:ehrbackend\\controllers\\countrystatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\app.core\\iservices\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD09D02-FC2B-4432-9C87-7F8E59635D53}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iservices\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\bloodgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\bloodgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\source\\repos\\EHRBackend\\Infrastructure\\Migrations\\20241212112605_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\domain\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C8445-32C6-4895-BBA1-95CA7E03D009}|Domain\\Domain.csproj|solutionrelative:domain\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\migrations\\20241218063730_soao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241218063730_soao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\migrations\\20241218063830_soaptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241218063830_soaptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ehr application project\\ehr thursday\\ehrbackend\\infrastructure\\migrations\\20241218042302_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8606F56-28C7-480F-8AC6-5B70E3330B9C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241218042302_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 380,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SOAPNotes.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\SOAPNotes.cs",
+              "RelativeDocumentMoniker": "Domain\\SOAPNotes.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\SOAPNotes.cs",
+              "RelativeToolTip": "Domain\\SOAPNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:30:12.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompletedDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\CompletedDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\CompletedDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\CompletedDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\CompletedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:19:24.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Program.cs",
+              "RelativeToolTip": "EHRBackend\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:30:54.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:30:53.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:32:52.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "EHRBackend\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowG0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:50:00.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListOfAppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\ListOfAppointmentDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\ListOfAppointmentDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\ListOfAppointmentDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\ListOfAppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:17:58.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IAppointmentService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\IAppointmentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:22:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SOAPController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\SOAPController.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Controllers\\SOAPController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\SOAPController.cs",
+              "RelativeToolTip": "EHRBackend\\Controllers\\SOAPController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:54:21.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20241218063730_SOAO.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Migrations\\20241218063730_SOAO.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241218063730_SOAO.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Migrations\\20241218063730_SOAO.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241218063730_SOAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:37:30.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20241218063830_SOAPTable.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Migrations\\20241218063830_SOAPTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241218063830_SOAPTable.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Migrations\\20241218063830_SOAPTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241218063830_SOAPTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:38:30.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SOAPService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\SOAPService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\SOAPService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\SOAPService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\SOAPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:38:57.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISOAPService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\ISOAPService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\ISOAPService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\ISOAPService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\ISOAPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:44:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\RegisterService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\RegisterService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\RegisterService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:26:54.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:09:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EHRBackend\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:55:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "EHRBackend\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:52:02.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20241218042302_Init.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Migrations\\20241218042302_Init.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241218042302_Init.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Migrations\\20241218042302_Init.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241218042302_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:23:02.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\AppointmentDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:39:25.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "EHRBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\appsettings.json",
+              "RelativeToolTip": "EHRBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T10:32:01.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Appointment.cs",
+              "RelativeDocumentMoniker": "Domain\\Appointment.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Appointment.cs",
+              "RelativeToolTip": "Domain\\Appointment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:57:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "EHRBackend\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:35:00.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\UpdateDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\UpdateDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\UpdateDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\UpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:35:29.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAxwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:39:56.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:07:46.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StripeService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\StripeService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\StripeService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\StripeService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\StripeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:48:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IStripeService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IStripeService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\IStripeService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IStripeService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\IStripeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:50:07.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IRegisterService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\IRegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:06:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\LoginService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:26:16.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\TokenDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\TokenDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:57:44.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IEmailService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IEmailService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:06:21.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OtpVerifyDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\OtpVerifyDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\OtpVerifyDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\OtpVerifyDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\OtpVerifyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:27:30.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "App.Core\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:27:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICountryStateService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\ICountryStateService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\ICountryStateService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\ICountryStateService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\ICountryStateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:41:00.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\ILoginService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\ILoginService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:25:44.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241216101001_timetypeagainagain.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216101001_timetypeagainagain.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216101001_timetypeagainagain.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216101001_timetypeagainagain.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216101001_timetypeagainagain.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:10:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241216103105_Appt.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216103105_Appt.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216103105_Appt.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216103105_Appt.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216103105_Appt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:31:05.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241216102808_Appt.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102808_Appt.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102808_Appt.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102808_Appt.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102808_Appt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:28:08.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241216102917_Appt.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102917_Appt.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102917_Appt.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102917_Appt.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216102917_Appt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:29:17.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241216100524_timetypeagain.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216100524_timetypeagain.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216100524_timetypeagain.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216100524_timetypeagain.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216100524_timetypeagain.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:05:25.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241216095932_timetype.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095932_timetype.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095932_timetype.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095932_timetype.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095932_timetype.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:59:32.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241216095027_appt.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095027_appt.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095027_appt.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095027_appt.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216095027_appt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:50:27.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241216045747_init.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216045747_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216045747_init.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216045747_init.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216045747_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:57:47.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241216050509_Init.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216050509_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216050509_Init.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216050509_Init.cs",
+              "RelativeToolTip": "..\\..\\EHR Monday\\EHRBackend\\Infrastructure\\Migrations\\20241216050509_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:05:09.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BloodGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\BloodGroupService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GetDataServices\\BloodGroupService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\BloodGroupService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GetDataServices\\BloodGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:14:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GenderService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\GenderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GetDataServices\\GenderService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\GenderService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GetDataServices\\GenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:15:53.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CountryStateService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\CountryStateService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CountryStateService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\CountryStateService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CountryStateService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:40:19.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\GetDataInterfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IRoleService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\GetDataInterfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:52:30.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\DataController.cs",
+              "RelativeToolTip": "EHRBackend\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:17:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RolesService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\RolesService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GetDataServices\\RolesService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\RolesService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GetDataServices\\RolesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:54:05.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SpecializationService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\SpecializationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GetDataServices\\SpecializationService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\SpecializationService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GetDataServices\\SpecializationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:05:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "QualificationService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\QualificationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GetDataServices\\QualificationService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\GetDataServices\\QualificationService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GetDataServices\\QualificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:11:45.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IGenderService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IGenderService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\GetDataInterfaces\\IGenderService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IGenderService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\GetDataInterfaces\\IGenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:04:13.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IBloodGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IBloodGroupService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\GetDataInterfaces\\IBloodGroupService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IBloodGroupService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\GetDataInterfaces\\IBloodGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:03:12.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ISpecializationService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\ISpecializationService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\GetDataInterfaces\\ISpecializationService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\ISpecializationService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\GetDataInterfaces\\ISpecializationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:47:04.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IQualificationService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IQualificationService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\GetDataInterfaces\\IQualificationService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\GetDataInterfaces\\IQualificationService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\GetDataInterfaces\\IQualificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:01:52.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CountryStateController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\CountryStateController.cs",
+              "RelativeDocumentMoniker": "EHRBackend\\Controllers\\CountryStateController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\Controllers\\CountryStateController.cs",
+              "RelativeToolTip": "EHRBackend\\Controllers\\CountryStateController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:45:31.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Gender.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Gender.cs",
+              "RelativeToolTip": "Domain\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:00:44.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:05:57.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "App.Core\\IServices\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\IServices\\IJwtTokenService.cs",
+              "RelativeToolTip": "App.Core\\IServices\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:05:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Otp.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Otp.cs",
+              "RelativeDocumentMoniker": "Domain\\Otp.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Otp.cs",
+              "RelativeToolTip": "Domain\\Otp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:56:21.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BloodGroup.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\BloodGroup.cs",
+              "RelativeDocumentMoniker": "Domain\\BloodGroup.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\BloodGroup.cs",
+              "RelativeToolTip": "Domain\\BloodGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:55:06.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\State.cs",
+              "RelativeDocumentMoniker": "Domain\\State.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\State.cs",
+              "RelativeToolTip": "Domain\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:39:56.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Qualification.cs",
+              "RelativeDocumentMoniker": "Domain\\Qualification.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Qualification.cs",
+              "RelativeToolTip": "Domain\\Qualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:52:11.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\Country.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Country.cs",
+              "RelativeToolTip": "Domain\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:34:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\City.cs",
+              "RelativeDocumentMoniker": "Domain\\City.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\City.cs",
+              "RelativeToolTip": "Domain\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:07:14.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T10:28:22.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20241212112605_Init.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\repos\\EHRBackend\\Infrastructure\\Migrations\\20241212112605_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\repos\\EHRBackend\\Infrastructure\\Migrations\\20241212112605_Init.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\repos\\EHRBackend\\Infrastructure\\Migrations\\20241212112605_Init.cs",
+              "RelativeToolTip": "..\\..\\..\\repos\\EHRBackend\\Infrastructure\\Migrations\\20241212112605_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:26:05.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Specialization.cs",
+              "RelativeDocumentMoniker": "Domain\\Specialization.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Specialization.cs",
+              "RelativeToolTip": "Domain\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:19:45.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Roles.cs",
+              "RelativeDocumentMoniker": "Domain\\Roles.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Roles.cs",
+              "RelativeToolTip": "Domain\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:04:44.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

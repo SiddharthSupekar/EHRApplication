@@ -1,0 +1,31 @@
+button{
+    background-color: #81ebd4;
+    color:black;
+    border-color: #81ebd4;
+}
+button :hover{
+    background-color: #81ebd4;
+    color:black;
+    border-color: #81ebd4;
+}
+.form-label {
+    font-size: 1.2rem; /* Increase label font size */
+}
+.form-control {
+    font-size: 1.1rem; /* Increase input field font size */
+    padding: 0.75rem; /* Add padding to make the fields appear bigger */
+}
+.btn {
+    font-size: 1.2rem; /* Increase button font size */
+    padding: 0.75rem; /* Add padding to the button */
+}
+.card {
+    padding: 2rem; /* Increase the card padding */
+}
+.container {
+    max-width: 100000px;
+    max-height: 100px; /* Increase the maximum width of the form */
+}
+body{
+    max-height: 100vh;
+}

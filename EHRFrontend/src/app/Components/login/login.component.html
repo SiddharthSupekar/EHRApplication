@@ -1,0 +1,61 @@
+<div class="login-container">
+    <!-- Centered Card with Logo and Form -->
+    <div class="login-card">
+      
+      <!-- Logo Section -->
+      <div class="logo-section text-center">
+        <img 
+          src="https://static.vecteezy.com/system/resources/previews/003/699/075/original/medical-health-logo-design-for-business-and-company-vector.jpg"
+          alt="Logo"
+          class="logo-img"
+        />
+      </div>
+  
+      <!-- Title Section -->
+      <h2 class="login-title text-center">Login</h2>
+      
+      <!-- Login Form -->
+      <form [formGroup]="loginForm" class="login-form">
+        <!-- Username Field -->
+        <div class="form-field">
+          <label for="username" class="form-label">Username</label>
+          <div class="input-container">
+            <span class="input-icon far fa-user"></span>
+            <input type="text" id="username" formControlName="username" class="form-input" placeholder="Enter your username">
+          </div>
+          <div *ngIf="loginForm.get('username')?.invalid && loginForm.get('username')?.touched" class="error-message">
+            Username is required.
+          </div>
+        </div>
+  
+        <!-- Password Field -->
+        <div class="form-field">
+          <label for="password" class="form-label">Password</label>
+          <div class="input-container">
+            <span class="input-icon fas fa-key"></span>
+            <input type="password" id="password" formControlName="password" class="form-input" placeholder="Enter your password">
+          </div>
+          <div *ngIf="loginForm.get('password')?.invalid && loginForm.get('password')?.touched" class="error-message">
+            Password is required.
+          </div>
+        </div>
+  
+        <!-- Login Button -->
+        <div class="form-submit">
+          <button type="submit" class="btn-login" (click)="forVerifying()">Login</button>
+        </div>
+      </form>
+  
+      <!-- Forgot Password Link -->
+       <br>
+      <div class="form-footer text-center">
+        <a routerLink="/forgot-password" class="text-link">Forgot password?</a>
+      </div>
+      <!-- Signup Link -->
+      <div class="form-footer text-center">
+        Don't have an account? 
+        <a routerLink="/first" class="text-link">Sign up</a>
+      </div>
+    </div>
+  </div>
+  

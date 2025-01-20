@@ -1,0 +1,154 @@
+<div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-md-10 col-sm-12">
+        <div class="card p-4 shadow-sm">
+          <h2 class="text-center mb-4">Patient Registration Form</h2>
+  
+            <form [formGroup]="patientRegisterForm" (ngSubmit)="onSubmit()">
+                <div class="row">
+                    <div class="row">
+                        <div class="col-md-4 mb-4 " [ngClass]="{'invalid':isFieldInvalid('firstName')}" >
+                            <label for="firstName" class="form-label">First Name</label>
+                            <input id="firstName" formControlName="firstName" class="form-control" type="text" maxlength="20">
+                            <div *ngIf="isFieldInvalid('firstName')" class="text-danger">
+                            First name is required and should not exceed 20 characters.
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-4">
+                            <label for="lastName" class="form-label">Last Name</label>
+                            <input id="lastName" formControlName="lastName" class="form-control" type="text" maxlength="20">
+                            <div *ngIf="isFieldInvalid('lastName')" class="text-danger">
+                            Last name is required and should not exceed 20 characters.
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-4">
+                            <label for="dob" class="form-label">Date of Birth</label>
+                            <input id="dob" formControlName="dob" class="form-control" type="date" max="{{todayDate}}" >
+                            <div *ngIf="isFieldInvalid('dob')" class="text-danger">
+                            Date of Birth is required.
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="row">
+                        <div class="col-md-4 mb-4">
+                            <label for="email" class="form-label">Email</label>
+                            <input id="email" formControlName="email" class="form-control" type="email">
+                            <div *ngIf="isFieldInvalid('email')" class="text-danger">
+                            Please enter a valid email address.
+                            </div>
+                        </div>
+            
+                        <div class="col-md-4 mb-4">
+                            <label for="mobile" class="form-label">Mobile</label>
+                            <input id="mobile" formControlName="mobile" class="form-control" type="text" maxlength="10" pattern="^[0-9]{10}$" appPhone >
+                            <div *ngIf="isFieldInvalid('mobile')" class="text-danger">
+                            Please enter a valid 10-digit mobile number.
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-4">
+                            <label for="genderId" class="form-label">Gender</label>
+                            <select id="genderId" formControlName="genderId" class="form-control">
+                            <option value="">Select Gender</option>
+                            <option *ngFor="let gender of genders" [value]="gender.genderId">{{gender.genderName}}</option>
+
+                            </select>
+                            <div *ngIf="isFieldInvalid('genderId')" class="text-danger">
+                            Gender is required.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-4 mb-4">
+                            <label for="countryId" class="form-label">Country</label>
+                            <!-- <input  type="text"> -->
+                             <select id="countryId" formControlName="countryId" class="form-control" (change)="onCountryChange()" >
+                                <option value="" selected disabled>Selct Country</option>
+                                <option *ngFor="let country of countryData" [value]="country.countryId"  >{{country.countryName}}</option>
+                             </select>
+                            <div *ngIf="isFieldInvalid('countryId')" class="text-danger">
+                            Country is required.
+                            </div>
+                        </div>
+            
+                        <!-- State -->
+                        <div class="col-md-4 mb-4">
+                            <label for="stateId" class="form-label">State</label>
+                            <!-- <input id="stateId" formControlName="stateId" class="form-control" type="text"> -->
+                             <select id="stateId" formControlName="stateId" class="form-control">
+                                <option value="" selected disabled>Select State</option>
+                                <option *ngFor="let state of filteredStateData" [value]="state.stateId">{{state.stateName}}</option>
+                             </select>
+                            <div *ngIf="isFieldInvalid('stateId')" class="text-danger">
+                            State is required.
+                            </div>
+                        </div>
+            
+                        <!-- City -->
+                        <div class="col-md-4 mb-4">
+                            <label for="city" class="form-label">City</label>
+                            <input id="city" formControlName="city" class="form-control" type="text">
+                            <div *ngIf="isFieldInvalid('city')" class="text-danger">
+                            City is required.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-5 mb-3">
+                            <label for="address" class="form-label">Address</label>
+                            <input id="address" formControlName="address" class="form-control" type="textarea">
+                            <div *ngIf="isFieldInvalid('pincode')" class="text-danger">
+                                Address is required.
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-7">
+                            <div class="row">
+                                <div class="col-md-5 mb-3">
+                                    <label for="pincode" class="form-label">Pincode</label>
+                                    <input id="pincode" formControlName="pincode" class="form-control" type="text" appPhone >
+                                    <div *ngIf="isFieldInvalid('pincode')" class="text-danger">
+                                    Pincode is required.
+                                    </div>
+                                </div>
+                                <div class="col-md-7 mb-3">
+                                    <label for="bloodGroupId" class="form-label">Blood Group</label>
+                                    <select id="bloodGroupId" formControlName="bloodGroupId" class="form-control">
+                                    <option value="">Select Blood Group</option>
+                                    <option *ngFor="let bloodGroup of bloodGroups" [value]="bloodGroup.bloodGroupId">{{bloodGroup.bloodGroupName}}</option>
+                                    </select>
+                                    <div *ngIf="isFieldInvalid('bloodGroupId')" class="text-danger">
+                                    Blood group is required.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>  
+                    <div class="col-md-12">
+                        <div>
+                            <label>Profile Image</label>
+                            <input class="form-control" type="file" (change)="onFileSelected($event)" />
+                        </div>
+                    </div>
+                <!-- Submit Button -->
+                    <div class="col-12 mt-3">
+                        <button type="submit" class="btn btn-primary w-100" >Submit</button>
+                    </div>
+                    <div class="col-12 mt-3">
+                        <!-- Back Button -->
+                        <button type="button" class="btn btn-secondary w-100" routerLink="/first" >Back</button>
+                    </div>
+                    <div>
+                        Already have an account?
+                        <a routerLink="/login"> Sign In</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  

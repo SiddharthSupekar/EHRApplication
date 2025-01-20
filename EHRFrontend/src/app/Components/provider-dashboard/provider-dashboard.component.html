@@ -1,0 +1,178 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button routerLink="/layout/add-appointment">
+        Make an Appointment
+    </button>
+    <div *ngIf="appointmentData.length > 0; else book" >
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                  <th>Provider Name</th>
+                  <th>AppointmentDate</th>
+                  <th>Appointment Time</th>
+                  <th>Appointment Status</th>
+                  <th>Purchase Price</th>
+                  <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let appointment of appointmentData">
+                      <td>{{ appointment.firstName }} {{appointment.lastName}}</td>
+                      <td>{{ appointment.appointmentDate }}</td>
+                      <td>{{ appointment.appointmentTime }}</td>
+                      <td>{{ appointment.appointmentStatus }}</td>
+                      <td>{{ appointment.fee }}</td>
+                      <td>
+                          <button class="btn btn-primary" (click)="onUpdate(appointment)">Update</button>
+                          <button class="btn btn-info" (click)="onView(appointment)">View</button>
+                          <button class="btn btn-danger" (click)="onDelete(product.id)">Delete</button>
+                      </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <ng-template #book>
+        No Appointments scheduled
+    </ng-template>
+</body>
+</html> -->
+
+<button routerLink="/layout/add-appointment-practitioner" class="btn" id="appointment-button">
+    Make an Appointment
+</button>
+<br><br>
+
+
+<div *ngIf="appointmentData.length > 0; else book">
+
+    <div class="appointment-list">
+        <div class="appointment-item" *ngFor="let appointment of appointmentData">
+            
+            <div class="appointment-header">
+                <h2>{{ appointment.firstName }} {{ appointment.lastName }}<h5>{{ appointment.specializationName }}</h5></h2>
+                
+            </div>
+
+            <div class="appointment-details">
+                <h6><strong>Appointment Date:</strong> {{ appointment.appointmentDate | date: 'shortDate' }}</h6>
+                <h6><strong>Appointment Time:</strong> {{ appointment.appointmentTime }}</h6>
+                <h6><strong>Status:</strong> {{ appointment.appointmentStatus }}</h6>
+                <h6><strong>Visiting Charge:</strong> {{ appointment.fee | currency: 'INR' }}</h6>
+            </div>
+            
+            <div class="appointment-actions">
+                <button class="btn btn-primary" (click)="onUpdate(appointment)">View Appointment</button>
+                <button class="btn btn-danger" (click)="cancelAppointment(appointment)">Cancel Appointment</button>
+                <button class="btn btn-info" [routerLink]="['/layout/chat',appointment.patientId, appointment.firstName]" >Chat</button>
+            </div>
+            
+        </div>
+        <div *ngIf="showModal">
+            <div class="modal fade show" id="appointmentModal" tabindex="-1" role="dialog" aria-labelledby="appointmentModal" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="appointmentModalTitle">Appointment Details</h5>
+                            <button type="button" class="close" (click)="closeAppointmentModal()" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="appointmentProfile" >
+                                <img [src]="'https://localhost:7187/' + dataToShow.profileImage" alt="Profile Image" 
+                                class="profile-image img-fluid rounded-circle" 
+                                style="width: 100px; height: 100px;" />
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label for="firstName">First Name</label>
+                                    <span>{{ dataToShow.firstName }}</span>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="lastName">Last Name</label>
+                                    <span>{{ dataToShow.lastName }}</span>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label for="appointmentDate">Appointment Date</label>
+                                    <span>{{ dataToShow.appointmentDate | date: 'shortDate' }}</span>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="appointmentTime">Appointment Time</label>
+                                    <span>{{ dataToShow.appointmentTime }}</span>
+                                </div>
+                            </div>
+                            
+                            <div class="row">
+                              <div class="col-md-6">
+                                <button (click)="onStatusChange()" type="button" class="btn btn-success">
+                                  Mark Appointment as Complete
+                                </button>
+                              </div>
+                            </div>
+                            <form [formGroup]="updateForm">
+                              
+                                <div *ngIf="showSOAPNotes" class="soap-notes mt-3">
+                                  <h5>SOAP Notes</h5>
+                                  <div class="row">
+                                    <div class="col-md-12">
+                                      <label for="subjective">Subjective</label>
+                                      <textarea id="subjective" formControlName="subjective" class="form-control" rows="3"></textarea>
+                                      <div *ngIf="isFieldInvalid('subjective')" class="text-danger">
+                                        Required
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                      <label for="objective">Objective</label>
+                                      <textarea id="objective" formControlName="objective" class="form-control" rows="3"></textarea>
+                                      <div *ngIf="isFieldInvalid('objective')" class="text-danger">
+                                        Required
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                      <label for="assessment">Assessment</label>
+                                      <textarea id="assessment" formControlName="assessment" class="form-control" rows="3"></textarea>
+                                      <div *ngIf="isFieldInvalid('assessment')" class="text-danger">
+                                        Required
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                      <label for="plan">Plan</label>
+                                      <textarea id="plan" formControlName="plan" class="form-control" rows="3"></textarea>
+                                      <div *ngIf="isFieldInvalid('plan')" class="text-danger">
+                                        Required
+                                        </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </form>
+                        
+                        </div>
+                        
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" (click)="closeAppointmentModal()">Close</button>
+                            <button type="button" class="btn btn-primary" (click)="onComplete(dataToShow.appointmentId)">Save Changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+    
+</div>
+
+<!-- Template to display when no appointments are available -->
+<ng-template #book>
+    <p>No Appointments scheduled</p>
+</ng-template>
+
+<!-- Modal Dialog for viewing and updating appointment details -->
