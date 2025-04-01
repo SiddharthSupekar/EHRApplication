@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\EHRBackend.csproj": {}
+    "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\EHRBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\App.Core.csproj": {
+    "D:\\GitClones\\EHRApplication\\EHRBackend\\App.Core\\App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\App.Core.csproj",
+        "projectUniqueName": "D:\\GitClones\\EHRApplication\\EHRBackend\\App.Core\\App.Core.csproj",
         "projectName": "App.Core",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\App.Core.csproj",
+        "projectPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\App.Core\\App.Core.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\obj\\",
+        "outputPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Domain.csproj"
+              "D:\\GitClones\\EHRApplication\\EHRBackend\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Domain.csproj": {
+    "D:\\GitClones\\EHRApplication\\EHRBackend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\GitClones\\EHRApplication\\EHRBackend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\Domain.csproj",
+        "projectPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Domain\\obj\\",
+        "outputPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\EHRBackend.csproj": {
+    "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\EHRBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\EHRBackend.csproj",
+        "projectUniqueName": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\EHRBackend.csproj",
         "projectName": "EHRBackend",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\EHRBackend.csproj",
+        "projectPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\EHRBackend.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\obj\\",
+        "outputPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,8 +165,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Infrastructure.csproj"
+              "D:\\GitClones\\EHRApplication\\EHRBackend\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\GitClones\\EHRApplication\\EHRBackend\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\GitClones\\EHRApplication\\EHRBackend\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\Infrastructure\\obj\\",
+        "outputPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -253,8 +253,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\App.Core.csproj": {
-                "projectPath": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\App.Core\\App.Core.csproj"
+              "D:\\GitClones\\EHRApplication\\EHRBackend\\App.Core\\App.Core.csproj": {
+                "projectPath": "D:\\GitClones\\EHRApplication\\EHRBackend\\App.Core\\App.Core.csproj"
               }
             }
           }

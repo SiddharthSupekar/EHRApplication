@@ -42,7 +42,6 @@ namespace EHRBackend.Controllers
         {
             if (aptDto != null)
             {
-                // Ensure appointment date is not in the past
                 TimeOnly targetTime = TimeOnly.FromDateTime(DateTime.UtcNow.AddHours(1));
                 if (aptDto.appointmentDate > DateTime.UtcNow.Date || aptDto.appointmentDate == DateTime.UtcNow.Date && aptDto.appointmentTime <= targetTime)
                 {

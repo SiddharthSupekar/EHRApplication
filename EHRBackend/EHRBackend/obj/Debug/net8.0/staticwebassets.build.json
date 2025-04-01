@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z6ztf7La9swugPpX/CM+WxxhhN6FT2iNLQdNrlLP2es=",
+  "Hash": "Hn0o72X8CcihAJlWGEyF6R1K/SE82yP7kunGn+XQrRc=",
   "Source": "EHRBackend",
   "BasePath": "_content/EHRBackend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EHRBackend\\wwwroot",
       "Source": "EHRBackend",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\0440cf50-296e-4563-baa1-eb5e45147b2b_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\0440cf50-296e-4563-baa1-eb5e45147b2b_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/0440cf50-296e-4563-baa1-eb5e45147b2b_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\0440cf50-296e-4563-baa1-eb5e45147b2b_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\111094c6-5d32-4eca-8170-3d3a00d1dee4_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\111094c6-5d32-4eca-8170-3d3a00d1dee4_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/111094c6-5d32-4eca-8170-3d3a00d1dee4_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\111094c6-5d32-4eca-8170-3d3a00d1dee4_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\1cbd58c1-1755-476c-927a-732fa580bedf_ProfilePictureSAmple4.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\1cbd58c1-1755-476c-927a-732fa580bedf_ProfilePictureSAmple4.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/1cbd58c1-1755-476c-927a-732fa580bedf_ProfilePictureSAmple4.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\1cbd58c1-1755-476c-927a-732fa580bedf_ProfilePictureSAmple4.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\1f23ca12-5cee-4dc9-ab0e-d6e4f1d25f53_ProfilePictureSample3.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\1f23ca12-5cee-4dc9-ab0e-d6e4f1d25f53_ProfilePictureSample3.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/1f23ca12-5cee-4dc9-ab0e-d6e4f1d25f53_ProfilePictureSample3.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\1f23ca12-5cee-4dc9-ab0e-d6e4f1d25f53_ProfilePictureSample3.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\2e9a7db4-8c53-4c8f-998f-22dd741979b4_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\2e9a7db4-8c53-4c8f-998f-22dd741979b4_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/2e9a7db4-8c53-4c8f-998f-22dd741979b4_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\2e9a7db4-8c53-4c8f-998f-22dd741979b4_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\3d857cdd-de14-41dd-9c86-2b8c4e70d64e_Profile.png",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\3d857cdd-de14-41dd-9c86-2b8c4e70d64e_Profile.png",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/3d857cdd-de14-41dd-9c86-2b8c4e70d64e_Profile.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\3d857cdd-de14-41dd-9c86-2b8c4e70d64e_Profile.png"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\44fe58e2-8f1b-4640-9a74-8cbb3b76ed18_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\44fe58e2-8f1b-4640-9a74-8cbb3b76ed18_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/44fe58e2-8f1b-4640-9a74-8cbb3b76ed18_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\44fe58e2-8f1b-4640-9a74-8cbb3b76ed18_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\480ee54e-99ce-4a77-b287-694fc0bcf625_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\480ee54e-99ce-4a77-b287-694fc0bcf625_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/480ee54e-99ce-4a77-b287-694fc0bcf625_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\480ee54e-99ce-4a77-b287-694fc0bcf625_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\4a4852d1-c30a-42c7-ad6c-28403e9665fe_Profile.png",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\4a4852d1-c30a-42c7-ad6c-28403e9665fe_Profile.png",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/4a4852d1-c30a-42c7-ad6c-28403e9665fe_Profile.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\4a4852d1-c30a-42c7-ad6c-28403e9665fe_Profile.png"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\5f38e4b6-0f20-4ea6-a597-69443d1a40e0_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\5f38e4b6-0f20-4ea6-a597-69443d1a40e0_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/5f38e4b6-0f20-4ea6-a597-69443d1a40e0_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\5f38e4b6-0f20-4ea6-a597-69443d1a40e0_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\6cce61af-fe60-4f38-8ff0-2fffee6c74d6_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\6cce61af-fe60-4f38-8ff0-2fffee6c74d6_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/6cce61af-fe60-4f38-8ff0-2fffee6c74d6_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\6cce61af-fe60-4f38-8ff0-2fffee6c74d6_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\81ce08bf-1b4c-4ae0-9376-8918d2d5051c_download.jpeg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\81ce08bf-1b4c-4ae0-9376-8918d2d5051c_download.jpeg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/81ce08bf-1b4c-4ae0-9376-8918d2d5051c_download.jpeg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\81ce08bf-1b4c-4ae0-9376-8918d2d5051c_download.jpeg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\91e2e194-753c-438c-aefc-80e4c8183ae2_ProfilePictureSample3.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\91e2e194-753c-438c-aefc-80e4c8183ae2_ProfilePictureSample3.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/91e2e194-753c-438c-aefc-80e4c8183ae2_ProfilePictureSample3.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\91e2e194-753c-438c-aefc-80e4c8183ae2_ProfilePictureSample3.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\9698b0c5-46a2-416f-a032-b0cb29e0b709_ProfilePictureSample3.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\9698b0c5-46a2-416f-a032-b0cb29e0b709_ProfilePictureSample3.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/9698b0c5-46a2-416f-a032-b0cb29e0b709_ProfilePictureSample3.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\9698b0c5-46a2-416f-a032-b0cb29e0b709_ProfilePictureSample3.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\b19d8a41-6381-43bb-9d4f-bc0a17161e55_ProfilePictureSample2.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\b19d8a41-6381-43bb-9d4f-bc0a17161e55_ProfilePictureSample2.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/b19d8a41-6381-43bb-9d4f-bc0a17161e55_ProfilePictureSample2.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\b19d8a41-6381-43bb-9d4f-bc0a17161e55_ProfilePictureSample2.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\b428a0d9-b822-4f2f-9e51-86d9d5e6664c_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\b428a0d9-b822-4f2f-9e51-86d9d5e6664c_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/b428a0d9-b822-4f2f-9e51-86d9d5e6664c_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\b428a0d9-b822-4f2f-9e51-86d9d5e6664c_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\b6f01da2-fa76-4124-9ad0-8739345bdbb7_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\b6f01da2-fa76-4124-9ad0-8739345bdbb7_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/b6f01da2-fa76-4124-9ad0-8739345bdbb7_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\b6f01da2-fa76-4124-9ad0-8739345bdbb7_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\c719ac36-c028-43fd-a82e-fd54e527ab1b_ProfilePictureSample3.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\c719ac36-c028-43fd-a82e-fd54e527ab1b_ProfilePictureSample3.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/c719ac36-c028-43fd-a82e-fd54e527ab1b_ProfilePictureSample3.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\c719ac36-c028-43fd-a82e-fd54e527ab1b_ProfilePictureSample3.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\d5d6f57a-8c20-447b-9bc3-0cacf693dc5f_Profile.png",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\d5d6f57a-8c20-447b-9bc3-0cacf693dc5f_Profile.png",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/d5d6f57a-8c20-447b-9bc3-0cacf693dc5f_Profile.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\d5d6f57a-8c20-447b-9bc3-0cacf693dc5f_Profile.png"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\d8256d79-cf7d-4449-89ec-1ba295c5548c_Profile.png",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\d8256d79-cf7d-4449-89ec-1ba295c5548c_Profile.png",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/d8256d79-cf7d-4449-89ec-1ba295c5548c_Profile.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\d8256d79-cf7d-4449-89ec-1ba295c5548c_Profile.png"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\defaultPic.jpeg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\defaultPic.jpeg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/defaultPic.jpeg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\defaultPic.jpeg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\ef3421fe-9118-4045-97aa-53283b1ff64d_ProfilePictureSample3.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\ef3421fe-9118-4045-97aa-53283b1ff64d_ProfilePictureSample3.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/ef3421fe-9118-4045-97aa-53283b1ff64d_ProfilePictureSample3.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\ef3421fe-9118-4045-97aa-53283b1ff64d_ProfilePictureSample3.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\f7393a9d-e681-461e-9f1b-1d7f8d9e5a55_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\f7393a9d-e681-461e-9f1b-1d7f8d9e5a55_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/f7393a9d-e681-461e-9f1b-1d7f8d9e5a55_ProfilepictureSample.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\profileImages\\f7393a9d-e681-461e-9f1b-1d7f8d9e5a55_ProfilepictureSample.jpg"
     },
     {
-      "Identity": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\fa858fe8-7633-4bd3-81f1-af65aa240533_ProfilepictureSample.jpg",
+      "Identity": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\uploads\\profileImages\\fa858fe8-7633-4bd3-81f1-af65aa240533_ProfilepictureSample.jpg",
       "SourceId": "EHRBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\siddharthsupekar\\source\\EHR Application Project\\EHR Thursday\\EHRBackend\\EHRBackend\\wwwroot\\",
+      "ContentRoot": "D:\\GitClones\\EHRApplication\\EHRBackend\\EHRBackend\\wwwroot\\",
       "BasePath": "_content/EHRBackend",
       "RelativePath": "uploads/profileImages/fa858fe8-7633-4bd3-81f1-af65aa240533_ProfilepictureSample.jpg",
       "AssetKind": "All",

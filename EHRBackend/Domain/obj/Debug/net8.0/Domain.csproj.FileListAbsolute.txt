@@ -64,3 +64,15 @@ C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\GitClones\EHRApplication\EHRBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\GitClones\EHRApplication\EHRBackend\Domain\bin\Debug\net8.0\Domain.dll
+D:\GitClones\EHRApplication\EHRBackend\Domain\bin\Debug\net8.0\Domain.pdb
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\Domain.dll
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\Domain.pdb
+D:\GitClones\EHRApplication\EHRBackend\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -112,3 +112,23 @@ C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\GitClones\EHRApplication\EHRBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

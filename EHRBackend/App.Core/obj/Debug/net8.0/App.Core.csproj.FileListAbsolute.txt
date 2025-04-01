@@ -88,3 +88,19 @@ C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
 C:\Users\siddharthsupekar\source\EHR Application Project\EHR Thursday\EHRBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+D:\GitClones\EHRApplication\EHRBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+D:\GitClones\EHRApplication\EHRBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+D:\GitClones\EHRApplication\EHRBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+D:\GitClones\EHRApplication\EHRBackend\App.Core\bin\Debug\net8.0\Domain.dll
+D:\GitClones\EHRApplication\EHRBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+D:\GitClones\EHRApplication\EHRBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
